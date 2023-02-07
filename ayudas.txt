@@ -1,0 +1,4 @@
+C:\Users\practicante02\Desktop\practicando>npx create-react-app material-ui
+C:\Users\practicante02\Desktop\practicando\material-ui>npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+C:\Users\practicante02\Desktop\practicando\material-ui>npm install @fontsource/roboto
+PS C:\Users\practicante02\Desktop\practicando\material-ui> npm i mui-datatables --force

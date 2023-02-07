@@ -1,0 +1,79 @@
+[   
+    {
+        "id": 3643,
+        "name": "asd",
+        "email": "asd@nicolas.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+    "id": 3642,
+    "name": "Mrs. Nawal Bhattacharya",
+    "email": "mrs_nawal_bhattacharya@deckow.net",
+    "gender": "female",
+    "status": "active"
+    },
+    {
+    "id": 3641,
+    "name": "Devangana Dwivedi JD",
+    "email": "jd_devangana_dwivedi@lockman.io",
+    "gender": "female",
+    "status": "active"
+    },
+    {
+    "id": 3640,
+    "name": "Kiran Gill Ret.",
+    "email": "kiran_gill_ret@kreiger-schiller.org",
+    "gender": "female",
+    "status": "inactive"
+    },
+    {
+    "id": 3639,
+    "name": "Gopi Embranthiri",
+    "email": "embranthiri_gopi@kiehn-bruen.com",
+    "gender": "male",
+    "status": "active"
+    },
+    {
+    "id": 3638,
+    "name": "Ms. Bhaaswar Agarwal",
+    "email": "agarwal_ms_bhaaswar@becker-corkery.net",
+    "gender": "male",
+    "status": "inactive"
+    },
+    {
+    "id": 3637,
+    "name": "Darshwana Pilla",
+    "email": "pilla_darshwana@kuhic-ondricka.name",
+    "gender": "male",
+    "status": "active"
+    },
+    {
+    "id": 3635,
+    "name": "Chinmayananda Chopra",
+    "email": "chinmayananda_chopra@pacocha-kulas.co",
+    "gender": "female",
+    "status": "inactive"
+    },
+    {
+    "id": 3634,
+    "name": "Prof. Ananta Bharadwaj",
+    "email": "bharadwaj_prof_ananta@wunsch.org",
+    "gender": "male",
+    "status": "inactive"
+    },
+    {
+    "id": 3633,
+    "name": "Darshwana Varman",
+    "email": "varman_darshwana@kassulke.name",
+    "gender": "female",
+    "status": "active"
+    },
+    {
+    "id": 3631,
+    "name": "Miss Adhiraj Naik",
+    "email": "naik_adhiraj_miss@nicolas.com",
+    "gender": "male",
+    "status": "active"
+    }
+    ]
